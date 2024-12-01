@@ -3,7 +3,7 @@ c programming geeks for geeks  c programming language  c programming online  c p
 
 C is a powerful and versatile programming language known for its efficiency and control over system resources. It’s widely used for various applications, from operating systems and device drivers to game development and embedded systems.
 
-[**Learn More:**]([https://www.scishowengineer.com/p/c-programming.html](https://www.scishowengineer.com/2023/03/what-is-c-programming-language.html))
+[**Learn More:**](https://www.scishowengineer.com/2023/03/what-is-c-programming-language.html)
 
 Key Features:
 
